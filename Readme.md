@@ -12,13 +12,11 @@ For example, the result here should be : “The movie is good, I like it”
 
 Example:
 
-`  
-Your string is : 'This dinner is not that bad ! You cook well', 
+`Your string is : 'This dinner is not that bad ! You cook well', 
   --> the result is : 'This dinner is good ! You cook well'
 
   Your string is : 'This movie is not so bad !' 
   --> the result is : 'This movie is good !'
 
   Your string is : 'This dinner is bad !' 
-  --> the result is : 'This dinner is bad !'
-  `
+  --> the result is : 'This dinner is bad !'`
